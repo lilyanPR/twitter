@@ -1,0 +1,14 @@
+
+.container{
+	text-align: center;
+}
+.title{
+	text-align: center;
+	color: blue;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+a{
+	margin-top: 20px;
+}
